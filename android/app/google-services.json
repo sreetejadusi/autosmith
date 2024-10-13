@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347384731602",
+    "project_id": "autosmith-1ed8f",
+    "storage_bucket": "autosmith-1ed8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347384731602:android:11865678437c678ff89a0b",
+        "android_client_info": {
+          "package_name": "in.theananta.autosmith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347384731602-9ba8j74jdp0m9210l03ffg2r8ce2r8dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelfKVxccSE0HgzCtDnhogt4BpnB6NQXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347384731602-9ba8j74jdp0m9210l03ffg2r8ce2r8dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
