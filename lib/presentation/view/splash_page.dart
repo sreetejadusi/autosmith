@@ -9,7 +9,7 @@ class SplashPage extends StatelessWidget {
   Widget build(BuildContext context) {
     Future.delayed(
       const Duration(seconds: 2),
-      () => Navigator.of(context).pushReplacementNamed('/onboarding'),
+      () => Navigator.of(context).pushReplacementNamed('/home'),
     );
     return Scaffold(
       body: Column(
